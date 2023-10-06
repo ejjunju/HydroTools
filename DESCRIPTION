@@ -1,0 +1,10 @@
+Package: HydroTools
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Emmanuel Jjunju
+Maintainer: The package maintainer <ejjunju@gmail.com>
+Description: Package to do a series of hydrologic and Hydrologic calculations connect to hydropower and other constructions near or around rivers. It is private for now on github.May be changed later
+License: GPL-3.0 license
+Encoding: UTF-8
+LazyData: true
